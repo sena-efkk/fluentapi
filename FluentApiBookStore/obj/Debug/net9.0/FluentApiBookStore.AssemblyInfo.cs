@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FluentApiBookStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9ca8eae37e896ca19a692de27370a9283fe9a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+436eb0bfdfe2749200077678f9009feddf821204")]
 [assembly: System.Reflection.AssemblyProductAttribute("FluentApiBookStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FluentApiBookStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
