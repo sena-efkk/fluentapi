@@ -1,4 +1,4 @@
-using FluentApiBookStore.Model;
+using FluentApiBookStore.Models;
 
 namespace FluentApiBookStore.Models
 {

@@ -1,6 +1,6 @@
 using FluentApiBookStore.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Reflection; // Bunu eklemeyi unutma!
+using System.Reflection; //
 
 namespace FluentApiBookStore
 {
@@ -17,9 +17,8 @@ namespace FluentApiBookStore
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // ESKİ USUL:
-            // modelBuilder.Entity<Category>... (SİLİNDİ)
-            // modelBuilder.Entity<Book>... (SİLİNDİ)
-            // ...hepsi silindi.
+            // modelBuilder.Entity<Category>(SİLİNDİ)
+            // modelBuilder.Entity<Book> (SİLİNDİ)
 
             // YENİ USUL (TEK SATIR):
             // Bu komut diyor ki: "Bu proje (Assembly) içindeki IEntityTypeConfiguration
