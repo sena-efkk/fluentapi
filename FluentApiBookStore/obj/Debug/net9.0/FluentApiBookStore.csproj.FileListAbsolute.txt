@@ -217,3 +217,4 @@ C:\Users\senas\OneDrive\Desktop\asp.netcore\FluentAPİ\FluentApiBookStore\obj\De
 C:\Users\senas\OneDrive\Desktop\asp.netcore\FluentAPİ\FluentApiBookStore\obj\Debug\net9.0\FluentApiBookStore.pdb
 C:\Users\senas\OneDrive\Desktop\asp.netcore\FluentAPİ\FluentApiBookStore\obj\Debug\net9.0\FluentApiBookStore.genruntimeconfig.cache
 C:\Users\senas\OneDrive\Desktop\asp.netcore\FluentAPİ\FluentApiBookStore\obj\Debug\net9.0\ref\FluentApiBookStore.dll
+C:\Users\senas\OneDrive\Desktop\asp.netcore\FluentAPİ\FluentApiBookStore\obj\Debug\net9.0\FluentApiBookStore.sourcelink.json

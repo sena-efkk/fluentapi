@@ -1,6 +1,6 @@
 using FluentApiBookStore.Models;
 
-namespace FluentApiBookStore.Model
+namespace FluentApiBookStore.Models
 {
     public class Author
     {
